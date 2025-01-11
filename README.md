@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <h1>Chữ màu đỏ</h1>
-    <p>Chữ màu xanh dương</p>
+    <h1>Anh Yêu Em</h1>
+    <p>by Hoàng Giang</p>
 </body>
 </html>
