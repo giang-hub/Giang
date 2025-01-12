@@ -98,7 +98,7 @@
 
     <div class="content">
         <p><strong>Tôi:</strong> Hoàng Văn Giang</p>
-        <p><strong>Ngày tháng năm sinh:</strong> 22/07/2006</p>
+        <p><strong>Ngày tháng năm:</strong> 22/07/2006</p>
         <p><strong>Lí do:</strong> Ghi đơn này, tôi hứa sẽ mãi yêu bé: Phạm Tuyết Mai.</p>
         <p><strong>Ngày tháng năm:</strong> 12/04/2007</p>
         <ul class="commitment-list">
